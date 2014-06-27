@@ -1,2 +1,1 @@
-opensso_laravel4
-================
+##OpenSSO Authenication for Laravel 4
