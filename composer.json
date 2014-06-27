@@ -1,0 +1,23 @@
+{
+    "name": "maen/opensso",
+    "description": "",
+    "authors": [
+        {
+            "name": "Benjamin Norcombe",
+            "email": "b.norcombe@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Maen\\Opensso\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
