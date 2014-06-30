@@ -1,7 +1,7 @@
 {
     "name": "maen/opensso",
     "description": "",
-	"keywords": ["framework", "laravel"],
+	"keywords": ["laravel"],
 	"license": "MIT",
     "authors": [
         {
