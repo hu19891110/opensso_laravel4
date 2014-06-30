@@ -1,6 +1,8 @@
 {
     "name": "maen/opensso",
     "description": "",
+	"keywords": ["framework", "laravel"],
+	"license": "MIT",
     "authors": [
         {
             "name": "Benjamin Norcombe",
@@ -9,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "illuminate/support": ">=4.1.*"
+        "illuminate/support": "4.1.*"
     },
     "autoload": {
         "classmap": [
